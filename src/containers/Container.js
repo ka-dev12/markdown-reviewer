@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import { Component } from "react";
 import Display from "../components/Display";
 
 const placeholder = `# Welcome to Markdown Reviewer

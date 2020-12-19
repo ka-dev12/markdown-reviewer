@@ -1,5 +1,3 @@
-import React from "react";
-
 const Editor = (props) => {
     return (
         <div className="col-12 col-lg-6">
